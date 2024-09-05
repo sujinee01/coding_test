@@ -1,5 +1,3 @@
-https://www.acmicpc.net/problem/2720
-
 T = int(input())
 
 for _ in range(T):
