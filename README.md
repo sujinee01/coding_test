@@ -12,10 +12,14 @@ https://www.acmicpc.net/user/leesu4675
 | `Refactor:` | 코드 리팩토링                                     |
 |   `Test:`   | 테스트 코드 및 리펙토링 테스트 코드 추가          |
 
+[문제] List
+
 [문제1] 세탁소 사장 동혁
 (https://www.acmicpc.net/problem/2720)
+
 [문제2] ATM
 (https://www.acmicpc.net/problem/11399)
+
 [문제3] 카드 정렬하기
 (https://www.acmicpc.net/problem/1715)
 
@@ -34,4 +38,8 @@ https://www.acmicpc.net/problem/1001
 [문제8]그룹 단어 체커
 https://www.acmicpc.net/problem/1316
 
-[문제9]
+[문제9] 더 큰 수 더하기
+https://www.acmicpc.net/problem/11382
+
+[문제10] A×B
+https://www.acmicpc.net/problem/10998
