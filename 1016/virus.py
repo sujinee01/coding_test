@@ -3,7 +3,6 @@ net = int(input()) #네트워크 연결 컴퓨터수
 
 # 그래프 초기화
 graph = [[] for _ in range(num + 1)]
-print(graph)
 
 # 간선 정보 입력받기
 for _ in range(net):
@@ -11,8 +10,6 @@ for _ in range(net):
     graph[a].append(b)
     graph[b].append(a)
 
-print(graph)
-    
 # 방문 기록 리스트
 visited = [False] * (num + 1)
 print(visited)
