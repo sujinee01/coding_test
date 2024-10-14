@@ -47,3 +47,6 @@ https://www.acmicpc.net/problem/2739
 
 [문제15] 윤년
 https://www.acmicpc.net/problem/2753
+
+[문제16] 사분면 고르기
+https://www.acmicpc.net/problem/14681
