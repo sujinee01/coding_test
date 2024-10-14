@@ -38,3 +38,6 @@ https://www.acmicpc.net/problem/2557
 
 [문제12] 시험 성적
 https://www.acmicpc.net/problem/9498
+
+[문제13] 전자레인지
+https://www.acmicpc.net/problem/10162
