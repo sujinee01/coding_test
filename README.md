@@ -71,3 +71,6 @@ https://www.acmicpc.net/problem/10430
 
 [문제22] 세자리 자연수
 https://www.acmicpc.net/problem/2588
+
+[문제23] 아스키 아트 - 고양이
+https://www.acmicpc.net/problem/10171
