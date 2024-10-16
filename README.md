@@ -1,6 +1,9 @@
 # coding_test
 https://www.acmicpc.net/user/leesu4675
 
+<백준> 코딩테스트 클리어
+1단계 입출력과 사칙연산 완료
+
 [문제] List
 
 [문제1] 세탁소 사장 동혁
@@ -75,5 +78,5 @@ https://www.acmicpc.net/problem/2588
 [문제23] 아스키 아트 - 고양이
 https://www.acmicpc.net/problem/10171
 
-[문제23] 아스키 아트 - 개
+[문제24] 아스키 아트 - 개
 https://www.acmicpc.net/problem/10172
