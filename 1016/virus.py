@@ -12,4 +12,14 @@ for _ in range(net):
 
 # 방문 기록 리스트
 visited = [False] * (num + 1)
-print(visited)
+
+# DFS 함수
+def dfs(n):
+    visited[n] = True # 현재 노드 방문처리
+    for i in graph[n]:
+        if not visited[i]: # 방문하지 않은 노드이면
+            dfs(i) # 방문처리
+            
+dfs(1) #1번부터 탐색
+
+print(visited.count(True)-1)
