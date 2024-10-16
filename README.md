@@ -68,3 +68,6 @@ https://www.acmicpc.net/problem/18108
 
 [문제21] 나머지
 https://www.acmicpc.net/problem/10430
+
+[문제22] 세자리 자연수
+https://www.acmicpc.net/problem/2588
