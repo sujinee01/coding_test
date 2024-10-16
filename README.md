@@ -65,3 +65,6 @@ https://www.acmicpc.net/problem/10926
 
 [문제20] 서기 연도
 https://www.acmicpc.net/problem/18108
+
+[문제21] 나머지
+https://www.acmicpc.net/problem/10430
