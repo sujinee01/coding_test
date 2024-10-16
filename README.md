@@ -74,3 +74,6 @@ https://www.acmicpc.net/problem/2588
 
 [문제23] 아스키 아트 - 고양이
 https://www.acmicpc.net/problem/10171
+
+[문제23] 아스키 아트 - 개
+https://www.acmicpc.net/problem/10172
