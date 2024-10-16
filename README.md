@@ -56,3 +56,6 @@ https://www.acmicpc.net/problem/2606
 
 [문제18] A/B
 https://www.acmicpc.net/problem/1008
+
+[문제19] 사칙연산
+https://www.acmicpc.net/problem/10869
