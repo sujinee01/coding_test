@@ -1,3 +1,4 @@
+# ASCII art cat
 print("\\    /\\")
 print(" )  ( ')")
 print("(  /  )")
