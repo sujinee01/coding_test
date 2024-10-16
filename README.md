@@ -62,3 +62,6 @@ https://www.acmicpc.net/problem/10869
 
 [문제19] 이름 출력
 https://www.acmicpc.net/problem/10926
+
+[문제20] 서기 연도
+https://www.acmicpc.net/problem/18108
