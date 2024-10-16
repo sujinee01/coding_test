@@ -53,3 +53,6 @@ https://www.acmicpc.net/problem/14681
 
 [문제17] 바이러스 (DFS&BFS)
 https://www.acmicpc.net/problem/2606
+
+[문제18] A/B
+https://www.acmicpc.net/problem/1008
