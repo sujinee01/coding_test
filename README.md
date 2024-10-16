@@ -59,3 +59,6 @@ https://www.acmicpc.net/problem/1008
 
 [문제19] 사칙연산
 https://www.acmicpc.net/problem/10869
+
+[문제19] 이름 출력
+https://www.acmicpc.net/problem/10926
