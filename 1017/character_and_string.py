@@ -1,6 +1,7 @@
-S = set[str(input())];
+S = str(input());
 a = int(input());
 
+arr = [];
+arr = S;
 
-
-print(S[a]);
+print(arr[a]);
