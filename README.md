@@ -80,3 +80,6 @@ https://www.acmicpc.net/problem/10171
 
 [문제24] 아스키 아트 - 개
 https://www.acmicpc.net/problem/10172
+
+[문제25] 알람시계
+https://www.acmicpc.net/problem/2884
