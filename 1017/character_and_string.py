@@ -4,4 +4,4 @@ a = int(input());
 arr = [];
 arr = S;
 
-print(arr[a]);
+print(arr[a-1]);
