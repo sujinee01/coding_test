@@ -83,3 +83,6 @@ https://www.acmicpc.net/problem/10172
 
 [문제25] 알람시계
 https://www.acmicpc.net/problem/2884
+
+[문제26] 문자와 문자열
+https://www.acmicpc.net/problem/27866
