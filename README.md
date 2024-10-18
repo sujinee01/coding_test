@@ -86,3 +86,6 @@ https://www.acmicpc.net/problem/2884
 
 [문제26] 문자와 문자열
 https://www.acmicpc.net/problem/27866
+
+[문제27] 오븐 시계
+https://www.acmicpc.net/problem/2525
