@@ -8,7 +8,8 @@ m += time;
 
 if m < 60:
     print(h, m);
-    if h < 23:
+else:
+    if h+int(m/60) =< 23:
         print(h+int(m/60), m-int(60*int(m/60)));
     else:
         print(0, m-int(60*int(m/60)));
