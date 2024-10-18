@@ -1,7 +1,7 @@
-S = str(input());
-a = int(input());
+S = str(input())
+a = int(input())
 
-arr = [];
-arr = S;
+arr = []
+arr = S
 
-print(arr[a-1]);
+print(arr[a-1])
