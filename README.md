@@ -89,3 +89,6 @@ https://www.acmicpc.net/problem/27866
 
 [문제27] 오븐 시계
 https://www.acmicpc.net/problem/2525
+
+[문제28] 주사위 세 개
+https://www.acmicpc.net/problem/2480
