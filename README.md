@@ -3,6 +3,7 @@ https://www.acmicpc.net/user/leesu4675
 
 <백준> 코딩테스트 클리어
 1단계 입출력과 사칙연산 완료
+2단계 조건문 완료
 
 [문제] List
 
