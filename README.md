@@ -96,3 +96,6 @@ https://www.acmicpc.net/problem/2480
 
 [문제29] A+B-3
 https://www.acmicpc.net/problem/10950
+
+[문제30] 합
+https://www.acmicpc.net/problem/8393
