@@ -93,3 +93,6 @@ https://www.acmicpc.net/problem/2525
 
 [문제28] 주사위 세 개
 https://www.acmicpc.net/problem/2480
+
+[문제29] A+B-3
+https://www.acmicpc.net/problem/10950
