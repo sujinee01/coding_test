@@ -4,4 +4,4 @@ i = 0
 while (i < n):
     a, b = map(int,input().split())
     print(a+b)
-    i++
+    i=i+1
